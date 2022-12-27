@@ -1,0 +1,27 @@
+{
+    "id": "6D8B2C7C",
+    "path": "C:/Projets/DASHBOARD_Muller/mongodb_connect.R",
+    "project_path": "mongodb_connect.R",
+    "type": "r_source",
+    "hash": "847032865",
+    "contents": "",
+    "dirty": false,
+    "created": 1672068796148.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1672073703,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1672073703768,
+    "read_only": false,
+    "read_only_alternatives": []
+}
